@@ -1,0 +1,58 @@
+body{
+   
+    text-align: LEFT;  
+    margin: 3em 7em 3em 7em; 
+    background-image: url("../images/BLUE1.JPEG"); 
+   background-size: cover;
+} 
+.fed{ 
+    font-size: larger;
+    border: white 2px solid;  
+   background-color: darkturquoise;
+    border-radius: 12PX; 
+    border-color: darkblue ;
+   
+} 
+div{ 
+  
+    padding-top: 15px; 
+    padding-bottom: 15px; 
+    padding-left: 15PX; 
+    font-size: 1.5EM; 
+    color: black;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: rgb(14, 13, 13) 1px 1px; 
+    font-style: italic;
+} 
+#sub{ 
+   
+    margin-left: 2em; 
+    font-size: 2em; 
+    color: goldenrod; 
+    background-color: darkblue;
+    border-radius: 10%; 
+    padding-top: 5px; 
+    padding-bottom: 5px; 
+    margin-top: 10px;
+} 
+#sub:hover{
+    color:rgb(156, 241, 19);
+    text-shadow: rgb(236, 27, 236); 
+    transition: 0.3s ease-in-out; 
+    transform: translateY(-5px);
+} 
+:hover{
+    color:darkblue; 
+    text-shadow: rgb(236, 27, 236);  
+    border-radius: 2%; 
+    border-color: brown; 
+    
+} 
+.di{
+  margin-right: 30px;
+ padding-inline-end:50px ;
+} 
+input{
+    font-size: 20px; 
+    
+} 
